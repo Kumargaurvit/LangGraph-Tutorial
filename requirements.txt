@@ -3,5 +3,10 @@ langchain
 langchain-groq
 langchain-ollama
 langchain-huggingface
+langchain-text-splitters
+langchain-community
+sentence-transformers
+pypdf
+faiss-cpu
 python-dotenv
 ipykernel
